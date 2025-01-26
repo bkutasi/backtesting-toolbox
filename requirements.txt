@@ -1,0 +1,4 @@
+requests
+backtrader
+pandas
+matplotlib

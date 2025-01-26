@@ -1,0 +1,14 @@
+__pycache__/
+.vscode/
+.env
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+env/
+node_modules/
+*.log
+*.pkl
+*.png
