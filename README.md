@@ -15,14 +15,21 @@ This project focuses on backtesting various trading strategies using historical 
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Create a virtual environment (recommended, use python 3 or 3.13):**
+
+    ```bash
+    python3 -m venv env
+    source env/bin/activate
+    ```
+
+2. **Clone the repository:**
 
     ```bash
     git clone https://github.com/yourusername/backtesting-toolbox.git
     cd backtesting-toolbox
     ```
 
-2. **Install the required packages:**
+3. **Install the required packages:**
 
     ```bash
     pip install -r requirements.txt
